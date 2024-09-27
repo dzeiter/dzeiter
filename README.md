@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dzeiter
 - 👀 I’m interested in Biomedical Engineering, AI in medicine and medical research in general.
-- 🌱 I’m currently in my MSc in Biomedical Engineering studies.
+- 🌱 I’m open for work and just finished my MSc in Biomedical Engineering with major in Image-Guided Therapy
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
